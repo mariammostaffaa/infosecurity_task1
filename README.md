@@ -1,4 +1,4 @@
-Cute-Themed Password Cracker 
+Password Cracker 
 
 A pink-themed GUI application that demonstrates password cracking techniques using dictionary attacks and brute force attacks. This project is a fun way to explore cybersecurity concepts while keeping the design easy!
 
